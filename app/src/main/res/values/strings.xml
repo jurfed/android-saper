@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">saper</string>
+    <string name="red">Красный</string>
+    <string name="tellow">Жёлтый</string>
+    <string name="green">Зеленый</string>
+    <string name="bengin">Укажите все бомбы</string>
+</resources>
